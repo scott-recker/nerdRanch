@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D2DC1EF31A1AE21D008D4715"
-               BuildableName = "Turkey"
-               BlueprintName = "Turkey"
-               ReferencedContainer = "container:Turkey.xcodeproj">
+               BlueprintIdentifier = "D2A014C51A1C049100C24FF7"
+               BuildableName = "Numbers"
+               BlueprintName = "Numbers"
+               ReferencedContainer = "container:Numbers.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D2DC1EF31A1AE21D008D4715"
-            BuildableName = "Turkey"
-            BlueprintName = "Turkey"
-            ReferencedContainer = "container:Turkey.xcodeproj">
+            BlueprintIdentifier = "D2A014C51A1C049100C24FF7"
+            BuildableName = "Numbers"
+            BlueprintName = "Numbers"
+            ReferencedContainer = "container:Numbers.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -51,10 +51,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D2DC1EF31A1AE21D008D4715"
-            BuildableName = "Turkey"
-            BlueprintName = "Turkey"
-            ReferencedContainer = "container:Turkey.xcodeproj">
+            BlueprintIdentifier = "D2A014C51A1C049100C24FF7"
+            BuildableName = "Numbers"
+            BlueprintName = "Numbers"
+            ReferencedContainer = "container:Numbers.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -69,10 +69,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D2DC1EF31A1AE21D008D4715"
-            BuildableName = "Turkey"
-            BlueprintName = "Turkey"
-            ReferencedContainer = "container:Turkey.xcodeproj">
+            BlueprintIdentifier = "D2A014C51A1C049100C24FF7"
+            BuildableName = "Numbers"
+            BlueprintName = "Numbers"
+            ReferencedContainer = "container:Numbers.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
